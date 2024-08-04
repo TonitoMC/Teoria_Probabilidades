@@ -1,7 +1,7 @@
 # Laboratorio 2. Análisis Combinatorio
 ## Instrucciones
 
-Realice los siguientes ejercicios utilizando la librer[ia itertools.
+Realice los siguientes ejercicios utilizando la librería itertools.
  
 ## Salida
 ```
