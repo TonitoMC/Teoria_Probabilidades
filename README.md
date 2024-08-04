@@ -16,4 +16,4 @@ En este curso principalmente se utilizó Java, algunas veces utilizando Python p
 
 Entregas Notorias:
 
-  - Proyecto 1: Simulación de Eventos, Ley de Números Grandes y Cadenas de Markov
+  - Parcial 4: Simulación de Eventos, Ley de Números Grandes y Cadenas de Markov
