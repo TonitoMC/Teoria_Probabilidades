@@ -13,3 +13,7 @@ En este curso principalmente se utilizó Java, algunas veces utilizando Python p
   - Probabilidades
   - Variables Aleatorias
   - Cadenas de Markov
+
+Entregas Notorias:
+
+  - Proyecto 1: Simulación de Eventos, Ley de Números Grandes y Cadenas de Markov
